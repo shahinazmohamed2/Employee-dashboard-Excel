@@ -1,5 +1,5 @@
 # Employee Dashboard | Microsoft Excel
-[Employee Dashboard](Employee-dashboard.png
+![Employee Dashboard](Employee-dashboard.png)
 ## 📌 Project Overview
 
 This project is an interactive **Employee Dashboard** created using Microsoft Excel to analyze workforce data and present key HR insights in a clear and visually engaging way. The dashboard enables users to explore employee information through dynamic charts, KPIs, and interactive filters, supporting better business and HR decision-making.
